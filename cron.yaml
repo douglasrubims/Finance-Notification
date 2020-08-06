@@ -1,5 +1,0 @@
-cron:
-- description: "API Notificate"
-  url: /api/notificate
-  schedule: every 1 minutes from 13:00 to 21:00
-  #schedule: every 1 minutes

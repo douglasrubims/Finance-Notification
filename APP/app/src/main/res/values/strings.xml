@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Finance Notificator</string>
+    <string name="objetivo">Objetivo:</string>
+    <string name="valor_esperado">Valor esperado:</string>
+    <string name="salvar">Salvar</string>
+    <string name="deletar">Deletar</string>
+    <string name="comprar">Comprar</string>
+    <string name="vender">Vender</string>
+    <string name="ativo">Ativo:</string>
+    <string name="todo">TODO</string>
+    <string name="finance">Finance</string>
+    <string name="notificator">Notificator</string>
+</resources>
